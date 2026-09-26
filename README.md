@@ -90,7 +90,7 @@ The system uses an **Arduino Uno**, a **soil moisture sensor**, a **relay module
 ## Getting Started
 
 1. Clone or download this repository.
-2. Open `smart_irrigation_system.ino` in the Arduino IDE.
+2. Open `AUTOMATIC WATERING SYSTEM V1 ARDUINO CODE.ino` in the Arduino IDE.
 3. Select your board and port under **Tools**.
 4. Wire the hardware as described above.
 5. Upload the sketch, then open the Serial Monitor (9600 baud) and follow the calibration steps.
@@ -98,8 +98,8 @@ The system uses an **Arduino Uno**, a **soil moisture sensor**, a **relay module
 ## Repository Structure
 
 ```
-smart-irrigation-system/
-├── smart_irrigation_system.ino   # Main Arduino sketch
+AUTOMATIC WATERING SYSTEM/
+├── AUTOMATIC WATERING SYSTEM V1 ARDUINO CODE.ino   # Main Arduino sketch
 ├── README.md                     # This file
 ├── LICENSE                       # MIT License (firmware only)
 └── .gitignore
